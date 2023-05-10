@@ -7,3 +7,4 @@ js:	main.js
 
 bash:	alx
 	school
+:
